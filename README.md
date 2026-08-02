@@ -3,6 +3,8 @@
 > 基于 `UniQQ.SDK v1.0.4`
 
 ---
+## 本文档地址 http://jaryan.work/UniQQ-Docs/
+
 
 ## 快速入门
 > 你可以从群文件中获取这个示例插件`HelloUniQQ(含源码).zip`
